@@ -1,4 +1,4 @@
-# California Housing Price Prediction 
+
 # California Housing Price Predictor (Gradio + scikit-learn)
 
 **What it does:** Predicts median California house value from 8 features (income, rooms, location, etc.) using a RandomForest in a scikit-learn Pipeline. Includes single input and (optional) batch CSV predictions.
