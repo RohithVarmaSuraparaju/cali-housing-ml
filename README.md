@@ -1,3 +1,5 @@
-# California Housing Price Prediction (No-Terminal Notebook)
+# California Housing Price Prediction 
 
-Open `California_Housing_Price_Prediction.ipynb` in Jupyter and run **Cell → Run All**.
+## Summary
+End-to-end ML regression predicting California median house value from 8 features. Trained a RandomForest in a scikit-learn Pipeline, evaluated with MAE/RMSE/R², and explained with feature importances. Includes saved model and a quick prediction demo.
+
